@@ -1,0 +1,66 @@
+.fa-heart {
+    color: palevioletred;
+    cursor: pointer;
+}
+
+h1 {
+    font-family: Trattatello, fantasy;
+    font-size: 25px;
+    letter-spacing: 1px;
+
+}
+
+.box {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 7px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-test,
+.card-text {
+    font-size: 12px;
+}
+
+input {
+    font-size: 14px;
+    background-color: #f5f5f5;
+}
+
+.h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 400px;
+    color: rgb(17, 50, 150);
+
+}
+
+.p {
+    margin-left: 400px;
+    font-size: 16px;
+}
+
+.flex-box {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.flex-box div {
+    padding: 10px;
+    margin: 10px;
+    justify-content: flex-start;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 1s;
+}
+
+.flex-box div:hover {
+    transform: scale(1.1);
+}
+
+.p1 {
+    font-size: 25px;
+    color: rgb(44, 47, 51);
+    margin-left: 380px;
+}
+
+.p2 {
+    margin-left: 340px;
+}
